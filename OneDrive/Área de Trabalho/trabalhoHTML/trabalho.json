@@ -1,0 +1,57 @@
+[
+   {"id":  1,
+  "nacao": "Hobbit", 
+   "casa":  "O Condado", 
+   "descricao": "Os  hobbits pés-peludos são o tipo mais comum de hobbit. São morenos, preferem planícies e regiões banhadas por rios. Os cascalvas tem a pele e o cabelo mais claros, são mais altos e mais esguios que os outros tipos de hobbit, preferem bosques e florestas para morar além de serem descendentes de elfos. Outros hobbits dizem que estes têm 'sangue de fada', por conta de sua ascendência. Os grados são tipos de hobbit mais robustos e frequentemente cultivam barbas. São mais próximos aos  anões,e Sméagol costumava ser um cascalva antes de ser corrompido pelo anel",
+   "personagens-saga":  ["Bilbo Bolseiro", "Samwise Gamgee", "Frodo Bolseiro", "Peregrin Tûk", "Rosinha Villa"],
+   "imagem": "https://cinemacomrapadura.com.br/imagens/2012/01/Hobbit.jpeg"},
+
+   {"id": 2, 
+   "nacao": "Cavaleiro de Rohan", 
+   "casa": "Abismo de Helm",
+   "descricao": "Durante a XIII século de Terceira Idade (TA), os governantes de Gondor formaram uma aliança estreita com os habitantes do território do norte deRhovanion, um pai de três pessoas Casas do Edain da Primeira Era. Estes homens foram dizimados pela  Grande  Peste  de  1636  TA,  e  ainda  mais  pelas  invasões dos  carrinhos  de Pessoas-de-no final do XX século. Após essas invasões, alguns desses homens, liderados por um certo Frumgar, migraram para o vale superior do Anduin em 1977 TA. No local, eles entraram em conflito com os Anões sobre o compartilhamento do tesouro do dragão Scatha, morto por Fram, filho de Frumgar. Esses homens, que tomaram o nome de Éothéod, viveram por vários séculos ao redor das nascentes do Anduin, mas se tornaram cada vez mais numerosos e se sentiam confinados em suas terras.  Apesar  do  afastamento,  eles  mantiveram  laços com  Gondor,  e  quando  o Administrador Cirion se viu atacado por hordas de Orientais e Orcs, em 2510 AT, ele chamou Eorl, o Jovem, o novo Senhor dos Éothéod. Ele chegou inesperadamente e  venceu  a  batalha  decisiva  dos  Campos  de  Celebrant.",
+   "personagens - saga": ["Théoden", "Théodred", "Deorwine"],
+   "imagem": "http://2.bp.blogspot.com/_PunV3wX0-Qg/TAZYjWgY1wI/AAAAAAAAAvA/1GT2WxEoGXU/s1600/Eomer.jpg"},
+
+   {"id": 3,
+   "nacao": "Orc Snaga",
+   "casa": "Cirith Ungol",
+   "descricao": "Snaga era o segundo no comando do Bando de Grishnakh. Snaga e Grishnakh encontraram o bando de Ugluk e mandaram Ugluk levar os Hobbits para o Grande Rio onde um Nazgul esperava por eles mas Ugluk não obedeceu e depois ele junto com todos os urukse orcs correram a toda velocidade até a floresta quando Mauhur um Uruk Hai sentiu o cheiro de carne humana. Na Floresta Fangorn os orcs e uruks discutiram pelos hobbits pois Grishnakh e Snaga queriam devoralos enquanto Ugluk e os uruks queriam leva los até Isengard. Snaga encontrou seu fim quando tentou agarrar Pippin sem sucesso foi decapitado por Ugluk e canibalizado pelos Uruks.",
+   "personagens - saga": ["Melkor", "Sauron", "Valar", "Nazgul"],
+   "imagem": "https://quintacapa.com.br/wp-content/uploads/2019/08/SauronTheBrightLordMissionImage-destaque.png"},
+
+   {"id": 4,
+   "nacao": "Uruk - hai",
+   "casa": "Portão Negro",
+   "descricao": "Os Uruk-hai eram mais usados como soldados do que as outras linhagens porque, ao contrário dos outros orcs, eram quase tão altos quanto os homens, tinham pernas longas e retas enão se enfraqueciam à luz do Sol. Eram negros e possuíam olhos cerrados. Pelas suas vantagens evidentes, os uruks consideravam-se superiores aos demais orcs.",
+   "personagens - saga": ["Gorbag", "Shagrat", "Ugluk", "Azog", "Bolg"],
+   "imagem": "https://static.wikia.nocookie.net/terramedia/images/2/28/Download_%284%29.jpg/revision/latest?cb=20141213020012"},
+
+   {"id": 5,
+   "nacao": "Guerreiro de Gondor",
+   "casa": "Minas Tirith",
+   "descricao": "Grandes guerreiros com armaduras impenetraveis peritos em bathalha corpo a corpo, considerados um dos exercitos mais temidos pela terra media",
+   "personagens - saga": ["Aragom", "Boromir", "Aldamir "],
+   "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zsr2_8-LN2JrWYJhz4-neVcAgi7z8l3tbpEfgphBdG-Slt_U6eBTIAQ3g4Kl3rO5sfo&usqp=CAU"},
+
+   {"id": 6,
+   "nacao": "Elfo da Floresta",
+   "casa": "Floresta das Trevas",
+   "descricao": "Elfos da Floresta são um povo mágico e selvagem, de ferocidade e destreza sobrenatural, que domam e se tornam parte das florestas que habitam. Assim como todos os elfos, eles vivem em lugares de beleza etérea, mas eles tem preferências pelas florestas e selvas de Iccarion, adotando lugares hostis como suas casas e expandindo seus conhecimentos naturais e mágicos.",
+   "personagens - saga": ["Legolas", "Feanor", "Curufin", "Arwen"],
+   "imagem": "https://rollingstone.uol.com.br/media/_versions/orlando_bloom_em_senhor_dos_aneis_divulgacao_new_line_widelg.jpg"},
+
+   {"id": 7,
+   "nacao": "Elfo de Lothlórien",
+   "casa": "Caras Galadhon",
+   "descricao": "Lothlórien é um reino e floresta dos elfos restantes na Terra Média durante a Terceira Era. O reino tem um papel importante como o centro élfico de resistência contra Sauron e é um símbolo à estética élfica de preservação florestal que fornece um espaço 'fora do tempo' para os personagens que ambos vivem e visitam lá.",
+   "personagens - saga": ["Lindorinand", "Lorinand", "Laurelindorenan", "Lorien"],
+   "imagem": "https://i.pinimg.com/736x/fc/33/d9/fc33d9af39b644a563863f3a0f4dbf0e--lotr-trilogy-tolkien.jpg"},
+
+   {"id": 8,
+   "nacao": "Anão",
+   "casa": "Colinas de Ferro",
+   "descricao": "Anão é uma raça na Terra-Média. Eles passam a maior parte do tempo trabalhando, em metalurgia e mineração, em cidades grandes.",
+   "personagens - saga": ["Balin", "Bifur", "Bombur", "Oin"],
+   "imagem": "https://static.wikia.nocookie.net/lotr/images/5/5c/Dwarves.jpg/revision/latest?cb=20200617153307"}
+   ]
